@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5dc;
+    color: #333;
+}
+
+.title {
+    font-family: 'Georgia', serif;
+    color: whitesmoke; 
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro {
+    font-family: 'Verdana', sans-serif;
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.nav {
+    margin: 20px;
+}
+
+.nav-button {
+    background-color: #2c5f2d;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+ol {
+    font-size: 1.5rem;
+
+}
+
+ul {
+    font-size: 1rem;
+}
+
+list {
+    margin: 20px;
+}
+
+
+.geo-image {
+    width: 30%;
+    height: auto;
+}
+
+
+iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+.back-to-top {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #2c5f2d;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.about-geocaching-div {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    background-color: #4b5320; 
+}
+
+.image-div {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    background-color: #556b2f;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px auto;
+    width: 80%; 
+}
+
+.listdiv {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 5px;
+    color: white;
+    background-color: #4b5320; 
+}
+
+.videodiv {
+    background-color: #2c5f2d;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.tableau-div {
+    text-align: center;
+    margin: 20px auto;
+    width: 90%; 
+    height: 300px; 
+    box-sizing: border-box;
+}
